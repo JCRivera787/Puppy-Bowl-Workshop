@@ -1,0 +1,3 @@
+[submodule "Unit2.PuppyBowl.Starter"]
+	path = Unit2.PuppyBowl.Starter
+	url = git@github.com:FullstackAcademy/Unit2.PuppyBowl.Starter.git
